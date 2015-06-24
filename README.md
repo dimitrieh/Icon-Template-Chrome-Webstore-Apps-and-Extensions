@@ -1,4 +1,4 @@
-# Icon Template for Chrome Webstore Apps and Extensions
+# Sketch Icon Template for Chrome Webstore Apps and Extensions
 For usage ;) As a way of doing a little something back for the community.
 
 Includes:
